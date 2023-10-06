@@ -24,7 +24,7 @@ A simple web-based Rock, Paper, Scissors game where you can play against the com
 Include a link or screenshot of your game in action.
 
 ![demo](demo.png)
-[Live Site](https://your-demo-url.com)
+[Live Site](https://rps-game-dj.vercel.app/)
 
 ## Technologies
 
